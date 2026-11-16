@@ -1,0 +1,8 @@
+node_modules/
+.env
+# Circuit artifacts are downloaded by scripts/download-circuits.sh
+# (gatekeeper_final.zkey ~0.3 MB, vfy-policy_final.zkey ~0.8 MB, wasms ~1.7/2.9 MB)
+circuits/*.wasm
+circuits/*.zkey
+circuits/*_vk.json
+*.log
