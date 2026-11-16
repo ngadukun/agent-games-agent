@@ -1,0 +1,1 @@
+{"dependencies":{"js-sha3":"0.14.0","poseidon-lite":"0.3.0","snarkjs":"0.7.6"},"description":"zkVerify Agent Games agent — Proof Gatekeeper + Steal the VFY (protocol v1)","engines":{"node":">=18"},"main":"server.js","name":"agent-games-agent","scripts":{"commitment":"node commitment.js","start":"node server.js","test":"node test-local.js"},"type":"module","version":"1.0.0"}
